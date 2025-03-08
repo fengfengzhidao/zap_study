@@ -1,0 +1,4 @@
+2025-03-08 20:20:46	ERROR	zap_pro/11.日志按照level分片.go:49	this is error1
+2025-03-08 20:20:46	ERROR	zap_pro/11.日志按照level分片.go:50	this is error2
+2025-03-08 20:21:51	ERROR	zap_pro/11.日志按照level分片.go:54	this is error1
+2025-03-08 20:21:51	ERROR	zap_pro/11.日志按照level分片.go:55	this is error2
